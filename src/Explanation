@@ -1,0 +1,6 @@
+
+I initialy spend some time on figuring out how to handle the components in order to have neatly structured code and avoid complications.
+So I had plan to spend the majority of my time on  desing with css and impementation.
+however it turned out that the sandbox was not compatible with the curency api (http://fixer.io), it took me quite some sime to figure this it out 
+If I had more time I would focuse more on design. I would use more css and try to make it responsive.
+Moreover if the project was bigger I would choose to use one state managment as well.
